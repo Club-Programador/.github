@@ -1,11 +1,22 @@
-<h1 style="background-color: #0096c2; color: #ffffff;">CLUB DE PROGRAMADOR@S</h1> 
+<h1 align="center">CLUB DE PROGRAMADOR@S</h1>
+<h3 align="center">Un espacio de encuentro presencial para estudiantes de las distintas áreas de la programación que se reúnen para trabajar en desafíos reales para sumar a su portfolio. </h3>
 
-<!--
-**Here are some ideas to get you started:**
+<br></br>
+## Proyectos:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Calculadora de IMC.
+- Página de preguntas frecuentes.
+- Lista de TODO.
+- Barra de navegación en scroll.
+- Conversor de divisas.
+- Memotest.
+- Juego “Bubble Pop”.
+- Cambiador de color de fondo aleatorio.
+- Calculadora.
+- Carrusel de reviews.
+- Cuenta atrás.
+- Generador de colores.
+- Contador de palabras.
+- Clon de Google Maps.
+- Piedra, papel y tijeras.
+- Clon de YouTube. 
