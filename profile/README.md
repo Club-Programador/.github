@@ -1,4 +1,4 @@
-## CLUB DE PROGRAMADOR@S
+<h1 style="background-color: #0096c2; color: #ffffff;">CLUB DE PROGRAMADOR@S</h1> 
 
 <!--
 **Here are some ideas to get you started:**
